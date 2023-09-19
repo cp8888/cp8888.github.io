@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:3
+#EXTINF:2.300000,
+https://img.36krcdn.com/hsossms/20230919/v2_7134ded19c9549bcbfe5b337120fe99d@000000_oswg539066oswg1oswg1_img_png
+#EXTINF:2.700000,
+https://img.36krcdn.com/hsossms/20230919/v2_742f65ddc3ae4e90a5a159ed3ff41534@000000_oswg643970oswg1oswg1_img_png
+#EXTINF:2.800000,
+https://img.36krcdn.com/hsossms/20230919/v2_65d12421d11e4322be3456c3ea85814a@000000_oswg573282oswg1oswg1_img_png
+#EXTINF:2.066667,
+https://img.36krcdn.com/hsossms/20230919/v2_47a71cc89e944d5bb202608a5129f5a9@000000_oswg335462oswg1oswg1_img_png
+#EXTINF:2.833333,
+https://img.36krcdn.com/hsossms/20230919/v2_7ccd72f5e19743cbbf47e400dbdebfde@000000_oswg431530oswg1oswg1_img_png
+#EXT-X-ENDLIST
